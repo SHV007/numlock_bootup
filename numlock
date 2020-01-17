@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# enable numlock on bootup
+# enable numlock on bootup (fun baanan)
 
 for tty in /dev/tty{1..6}
 do
